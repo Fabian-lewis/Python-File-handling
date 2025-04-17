@@ -50,7 +50,13 @@ When selecting the Modify option:
     Helloo I am Fabian. I am cooking Python😎😎
     Enter the name of the new file to save the modified content: modified.txt
 ```
+## Console Screenshots
+![Writing a file](assets/screenshot1.png)
+
+![Modifying a file](assets/screenshot1.png)
+
 
 ## 👨‍💻 Author
-# Fabian
-Simple console utility for file management using Python
+
+**Fabian**  
+*Simple console utility for file management using Python*
