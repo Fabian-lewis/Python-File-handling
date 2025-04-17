@@ -51,9 +51,9 @@ When selecting the Modify option:
     Enter the name of the new file to save the modified content: modified.txt
 ```
 ## Console Screenshots
-![Writing a file](assets/screenshot1.png)
+![Writing a file](assets/Screenshot1.png)
 
-![Modifying a file](assets/screenshot1.png)
+![Modifying a file](assets/Screenshot2.png)
 
 
 ## 👨‍💻 Author
